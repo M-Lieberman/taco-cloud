@@ -1,3 +1,3 @@
 ## Taco Cloud
 
-Demo project taken from Spring in Action, Fifth Edition.
+Demo project from Spring in Action, Fifth Edition.
